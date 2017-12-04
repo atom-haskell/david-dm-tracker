@@ -1,7 +1,5 @@
 # david-dm-tracker
 
-[atom-backend-helper ![](https://david-dm.org/atom-haskell/atom-backend-helper.svg)](https://david-dm.org/atom-haskell/atom-backend-helper)
-
 [atom-dts-generator ![](https://david-dm.org/atom-haskell/atom-dts-generator.svg)](https://david-dm.org/atom-haskell/atom-dts-generator)
 
 [atom-haskell-docs ![](https://david-dm.org/atom-haskell/atom-haskell-docs.svg)](https://david-dm.org/atom-haskell/atom-haskell-docs)
