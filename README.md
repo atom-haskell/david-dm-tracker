@@ -1,9 +1,5 @@
 # david-dm-tracker
 
-[atom-dts-generator ![](https://david-dm.org/atom-haskell/atom-dts-generator.svg)](https://david-dm.org/atom-haskell/atom-dts-generator)
-
-[atom-haskell-docs ![](https://david-dm.org/atom-haskell/atom-haskell-docs.svg)](https://david-dm.org/atom-haskell/atom-haskell-docs)
-
 [atom-haskell-tslint-rules ![](https://david-dm.org/atom-haskell/atom-haskell-tslint-rules.svg)](https://david-dm.org/atom-haskell/atom-haskell-tslint-rules)
 
 [atom-haskell-utils ![](https://david-dm.org/atom-haskell/atom-haskell-utils.svg)](https://david-dm.org/atom-haskell/atom-haskell-utils)
